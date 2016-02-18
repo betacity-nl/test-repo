@@ -6,3 +6,9 @@ So please count one, two, three
 ##Test using headers
 This seems to be working all right
 ###with even a tertiary header
+
+* first item in unordered list
+* second
+* and third
+
+closing
